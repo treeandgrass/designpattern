@@ -1,0 +1,26 @@
+{
+  "name": "designpattern",
+  "version": "1.0.0",
+  "description": "Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treeandgrass/designpattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treeandgrass/designpattern/issues"
+  },
+  "homepage": "https://github.com/treeandgrass/designpattern#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.2.7",
+    "ts-jest": "^25.3.1",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  }
+}
