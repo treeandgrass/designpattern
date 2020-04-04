@@ -8,6 +8,8 @@ export class TVFactory {
             return new  HaierTV();
         } else  if (type === "HUIPU") {
             return new HuiPuTV();
+        } else {
+            throw new Error("unimpleamented");
         }
     }
 }
